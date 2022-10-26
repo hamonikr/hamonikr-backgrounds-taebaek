@@ -1,0 +1,78 @@
+<?xml version="1.0"?> 
+<!DOCTYPE wallpapers SYSTEM "cinnamon-wp-list.dtd"> 
+<wallpapers> 
+
+<wallpaper>
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/taebaek/bg01.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>HamoniKR Team</artist>
+</wallpaper>
+<wallpaper>
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/taebaek/bg02.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>HamoniKR Team</artist>
+</wallpaper>
+<wallpaper>
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/taebaek/bg03.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>HamoniKR Team</artist>
+</wallpaper>
+<wallpaper>
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/taebaek/bg04.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>HamoniKR Team</artist>
+</wallpaper>
+<wallpaper>
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/taebaek/bg05.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>HamoniKR Team</artist>
+</wallpaper>
+<wallpaper>
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/taebaek/bg06.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>HamoniKR Team</artist>
+</wallpaper>
+<wallpaper>
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/taebaek/bg07.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>HamoniKR Team</artist>
+</wallpaper>
+<wallpaper>
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/taebaek/bg08.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>HamoniKR Team</artist>
+</wallpaper>
+
+</wallpapers> 

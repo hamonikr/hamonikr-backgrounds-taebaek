@@ -1,0 +1,32 @@
+#!/bin/bash
+
+update_background (){
+    # Update the default BG date (to force a DE bg refresh on upgrade)
+    if [ -e /usr/share/cinnamon-background-properties/taebaek.xml ] ; then
+        touch /usr/share/cinnamon-background-properties/taebaek.xml
+    fi
+}
+
+case "$1" in
+    configure|upgrade|update|reconfigure|triggered)
+    
+        update_background
+        glib-compile-schemas /usr/share/glib-2.0/schemas
+        
+        if which update-icon-caches >/dev/null 2>&1 ; then
+            update-icon-caches /usr/share/icons
+        fi
+
+    ;;
+
+    abort-upgrade|abort-remove|abort-deconfigure)
+
+    ;;
+    
+    *)
+        echo "postinst called with unknown argument \`$1'" >&2
+        exit 1
+    ;;
+esac
+
+exit 0
