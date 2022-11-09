@@ -4,7 +4,7 @@
 
 <wallpaper>
     <name>HamoniKR</name>
-    <filename>/usr/share/backgrounds/taebaek/bg01.png</filename>
+    <filename>/usr/share/backgrounds/taebaek/bg-01.png</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -13,7 +13,7 @@
 </wallpaper>
 <wallpaper>
     <name>HamoniKR</name>
-    <filename>/usr/share/backgrounds/taebaek/bg02.png</filename>
+    <filename>/usr/share/backgrounds/taebaek/bg-02.png</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -22,7 +22,7 @@
 </wallpaper>
 <wallpaper>
     <name>HamoniKR</name>
-    <filename>/usr/share/backgrounds/taebaek/bg03.png</filename>
+    <filename>/usr/share/backgrounds/taebaek/bg-03.png</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -31,7 +31,7 @@
 </wallpaper>
 <wallpaper>
     <name>HamoniKR</name>
-    <filename>/usr/share/backgrounds/taebaek/bg04.png</filename>
+    <filename>/usr/share/backgrounds/taebaek/bg-04.png</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -40,7 +40,7 @@
 </wallpaper>
 <wallpaper>
     <name>HamoniKR</name>
-    <filename>/usr/share/backgrounds/taebaek/bg05.png</filename>
+    <filename>/usr/share/backgrounds/taebaek/bg-05.png</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -49,7 +49,7 @@
 </wallpaper>
 <wallpaper>
     <name>HamoniKR</name>
-    <filename>/usr/share/backgrounds/taebaek/bg06.png</filename>
+    <filename>/usr/share/backgrounds/taebaek/bg-06.png</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -58,7 +58,7 @@
 </wallpaper>
 <wallpaper>
     <name>HamoniKR</name>
-    <filename>/usr/share/backgrounds/taebaek/bg07.png</filename>
+    <filename>/usr/share/backgrounds/taebaek/bg-07.png</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -67,7 +67,115 @@
 </wallpaper>
 <wallpaper>
     <name>HamoniKR</name>
-    <filename>/usr/share/backgrounds/taebaek/bg08.png</filename>
+    <filename>/usr/share/backgrounds/taebaek/bg-08.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>HamoniKR Team</artist>
+</wallpaper>
+<wallpaper>
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/taebaek/bg-09.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>HamoniKR Team</artist>
+</wallpaper>
+<wallpaper>
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/taebaek/bg-10.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>HamoniKR Team</artist>
+</wallpaper>
+<wallpaper>
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/taebaek/bg-11.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>HamoniKR Team</artist>
+</wallpaper>
+<wallpaper>
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/taebaek/bg-12.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>HamoniKR Team</artist>
+</wallpaper>
+<wallpaper>
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/taebaek/bg-13.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>HamoniKR Team</artist>
+</wallpaper>
+<wallpaper>
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/taebaek/bg-14.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>HamoniKR Team</artist>
+</wallpaper>
+<wallpaper>
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/taebaek/bg-15.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>HamoniKR Team</artist>
+</wallpaper>
+<wallpaper>
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/taebaek/bg-16.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>HamoniKR Team</artist>
+</wallpaper>
+<wallpaper>
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/taebaek/bg-17.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>HamoniKR Team</artist>
+</wallpaper>
+<wallpaper>
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/taebaek/bg-18.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>HamoniKR Team</artist>
+</wallpaper>
+<wallpaper>
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/taebaek/bg-19.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+    <artist>HamoniKR Team</artist>
+</wallpaper>
+<wallpaper>
+    <name>HamoniKR</name>
+    <filename>/usr/share/backgrounds/taebaek/bg-20.png</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
